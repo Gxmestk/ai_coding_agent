@@ -1,0 +1,2 @@
+This is a plain text file, not a markdown file.
+It should trigger the invalid extension error when the CLI tries to read it.
